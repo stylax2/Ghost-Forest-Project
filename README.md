@@ -1,0 +1,1 @@
+This repository contains the R code for the paper 'Vertical Decoupling and Community Disassembly'. The data (present_total.xlsx, vege_table.xlsx) required to run this code can be found in the Harvard Dataverse [Link]
