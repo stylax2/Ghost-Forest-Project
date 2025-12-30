@@ -11,7 +11,7 @@
 if (!require("pacman")) install.packages("pacman")
 pacman::p_load(tidyverse, readxl, rgbif, sf, geodata, terra, stringr)
 
-message("🚀 [Step 1] Starting Data Preparation...")
+message("[Step 1] Starting Data Preparation...")
 
 # ==============================================================================
 # Section A: Diagnostic Species Analysis
